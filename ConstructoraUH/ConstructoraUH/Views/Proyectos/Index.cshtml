@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ConstructoraUH.Models.Proyecto>
+
+@{
+    ViewData["Title"] = "Índice de Proyectos";
+}
+
+<h1>Índice de Proyectos</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Nuevo Proyecto</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.CodigoProyecto)</th>
+            <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.FechaInicio)</th>
+            <th>@Html.DisplayNameFor(model => model.FechaFinalizacion)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.CodigoProyecto)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaInicio)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaFinalizacion)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CodigoProyecto" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.CodigoProyecto" class="btn btn-danger btn-sm">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

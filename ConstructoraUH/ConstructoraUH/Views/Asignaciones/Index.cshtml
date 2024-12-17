@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ConstructoraUH.Models.Asignacion>
+
+@{
+    ViewData["Title"] = "Índice de Asignaciones";
+}
+
+<h1>Índice de Asignaciones</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Nueva Asignación</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Empleado.NombreCompleto)</th>
+            <th>@Html.DisplayNameFor(model => model.Proyecto.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.FechaAsignacion)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Empleado.NombreCompleto)</td>
+                <td>@Html.DisplayFor(modelItem => item.Proyecto.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaAsignacion)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.AsignacionId" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.AsignacionId" class="btn btn-danger btn-sm">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\proyectos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\proyectos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\asignaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\asignaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sabor\\AppData\\Local\\Temp\\hak4anoj..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\constructorauh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\constructorauh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\asignaciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\asignaciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\asignaciones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\asignaciones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\asignaciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\asignaciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\proyectos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\proyectos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\proyectos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\proyectos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\proyectos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\proyectos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\models\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\models\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|c:\\users\\sabor\\onedrive - ministerio de educaci\u00F3n\\documentos\\constructorauh\\constructorauh\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB693999-FAC2-49A0-A71A-A6F27ADF7085}|ConstructoraUH\\ConstructoraUH.csproj|solutionrelative:constructorauh\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Asignaciones\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Asignaciones\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Asignaciones\\Create.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Asignaciones\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:37:14.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\appsettings.json",
+              "RelativeDocumentMoniker": "ConstructoraUH\\appsettings.json",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\appsettings.json",
+              "RelativeToolTip": "ConstructoraUH\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T00:25:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Asignaciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Asignaciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Asignaciones\\Index.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Asignaciones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:36:55.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Proyectos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Proyectos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Proyectos\\Delete.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Proyectos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:36:17.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsignacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Controllers\\AsignacionesController.cs",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Controllers\\AsignacionesController.cs",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Controllers\\AsignacionesController.cs",
+              "RelativeToolTip": "ConstructoraUH\\Controllers\\AsignacionesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:27:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "ConstructoraUH\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:26:29.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ConstructoraUH\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:25:21.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Models\\Proyecto.cs",
+              "RelativeToolTip": "ConstructoraUH\\Models\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:24:19.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProyectosController.cs",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Controllers\\ProyectosController.cs",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Controllers\\ProyectosController.cs",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Controllers\\ProyectosController.cs",
+              "RelativeToolTip": "ConstructoraUH\\Controllers\\ProyectosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:27:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:33:13.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Proyectos\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Proyectos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Proyectos\\Index.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Proyectos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:35:29.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Asignaciones\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Asignaciones\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Asignaciones\\Edit.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Asignaciones\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:37:21.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Asignaciones\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Asignaciones\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Asignaciones\\Delete.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Asignaciones\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:37:28.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Program.cs",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Program.cs",
+              "RelativeToolTip": "ConstructoraUH\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvy0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:38:31.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hak4anoj..sql",
+              "DocumentMoniker": "C:\\Users\\sabor\\AppData\\Local\\Temp\\hak4anoj..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\hak4anoj..sql",
+              "ToolTip": "C:\\Users\\sabor\\AppData\\Local\\Temp\\hak4anoj..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\hak4anoj..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-17T01:09:20.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConstructoraUH.csproj",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\ConstructoraUH.csproj",
+              "RelativeDocumentMoniker": "ConstructoraUH\\ConstructoraUH.csproj",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\ConstructoraUH.csproj",
+              "RelativeToolTip": "ConstructoraUH\\ConstructoraUH.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T00:23:03.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:43:12.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:43:22.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:44:01.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:44:37.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:44:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Proyectos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Proyectos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Proyectos\\Edit.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Proyectos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:36:00.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Proyectos\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Proyectos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Proyectos\\Create.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Proyectos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:35:45.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Empleados\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Empleados\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Empleados\\Delete.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Empleados\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:34:49.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Empleados\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Empleados\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Empleados\\Edit.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Empleados\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:34:19.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Empleados\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Views\\Empleados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Views\\Empleados\\Create.cshtml",
+              "RelativeToolTip": "ConstructoraUH\\Views\\Empleados\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T00:33:42.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Models\\Asignacion.cs",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Models\\Asignacion.cs",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Models\\Asignacion.cs",
+              "RelativeToolTip": "ConstructoraUH\\Models\\Asignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:24:38.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "ConstructoraUH\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\sabor\\OneDrive - Ministerio de Educaci\u00F3n\\Documentos\\ConstructoraUH\\ConstructoraUH\\Models\\Empleado.cs",
+              "RelativeToolTip": "ConstructoraUH\\Models\\Empleado.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:23:56.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

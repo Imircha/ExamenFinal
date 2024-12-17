@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a Constructora UH</h1>
+    <p>Sistema de Gestión de Personal y Proyectos</p>
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Empleados</h5>
+                <p class="card-text">Gestiona la información de los empleados de la empresa.</p>
+                <a asp-controller="Empleados" asp-action="Index" class="btn btn-primary">Ir a Empleados</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Proyectos</h5>
+                <p class="card-text">Administra los proyectos en curso y finalizados.</p>
+                <a asp-controller="Proyectos" asp-action="Index" class="btn btn-primary">Ir a Proyectos</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Asignaciones</h5>
+                <p class="card-text">Gestiona las asignaciones de empleados a proyectos.</p>
+                <a asp-controller="Asignaciones" asp-action="Index" class="btn btn-primary">Ir a Asignaciones</a>
+            </div>
+        </div>
+    </div>
+</div>

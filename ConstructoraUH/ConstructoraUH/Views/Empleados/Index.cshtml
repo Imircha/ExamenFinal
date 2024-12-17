@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ConstructoraUH.Models.Empleado>
+
+@{
+    ViewData["Title"] = "Índice de Empleados";
+}
+
+<h1>Índice de Empleados</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Nuevo Empleado</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.CarnetUnico)</th>
+            <th>@Html.DisplayNameFor(model => model.NombreCompleto)</th>
+            <th>@Html.DisplayNameFor(model => model.FechaNacimiento)</th>
+            <th>@Html.DisplayNameFor(model => model.Direccion)</th>
+            <th>@Html.DisplayNameFor(model => model.Telefono)</th>
+            <th>@Html.DisplayNameFor(model => model.CorreoElectronico)</th>
+            <th>@Html.DisplayNameFor(model => model.Salario)</th>
+            <th>@Html.DisplayNameFor(model => model.CategoriaLaboral)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.CarnetUnico)</td>
+                <td>@Html.DisplayFor(modelItem => item.NombreCompleto)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaNacimiento)</td>
+                <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+                <td>@Html.DisplayFor(modelItem => item.CorreoElectronico)</td>
+                <td>@Html.DisplayFor(modelItem => item.Salario)</td>
+                <td>@Html.DisplayFor(modelItem => item.CategoriaLaboral)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CarnetUnico" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.CarnetUnico" class="btn btn-danger btn-sm">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
